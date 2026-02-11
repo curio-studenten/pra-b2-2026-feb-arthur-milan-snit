@@ -155,6 +155,11 @@ button{
   height: 64px;
 }
 
+.article{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
 .sidy-by-side{
 }
 
