@@ -174,7 +174,7 @@ button{
 .sidy-by-side{
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .description{
@@ -209,6 +209,9 @@ footer{
 }
 .line p{
   padding-right: 3px;
+}
+.allign{
+  width: 25px;
 }
 
 /* 
