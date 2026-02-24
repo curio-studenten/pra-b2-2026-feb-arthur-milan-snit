@@ -198,6 +198,18 @@ footer{
   display: block;
 }
 
+.productside{
+  display: flex;
+  flex-direction: row;
+}
+.line{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.line p{
+  padding-right: 3px;
+}
 
 /* 
   ##Device = Most of the Smartphones Mobiles (Portrait)
