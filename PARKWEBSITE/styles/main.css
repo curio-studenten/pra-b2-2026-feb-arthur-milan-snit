@@ -202,6 +202,10 @@ footer{
     width: 25px;
   }
 
+  .right-side{
+    display: flex;
+    justify-content: start;
+  }
 /* 
   ##Device = Most of the Smartphones Mobiles (Portrait)
   ##Screen = B/w 320px to 479px
