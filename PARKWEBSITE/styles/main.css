@@ -163,6 +163,9 @@ button{
 }
 
 .sidy-by-side{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .description{
