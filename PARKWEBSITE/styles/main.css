@@ -214,10 +214,27 @@ footer{
   width: 25px;
 }
 
-  .right-side{
-    display: flex;
-    justify-content: start;
-  }
+.allign-end-text {
+  display: flex;
+  justify-content: end;
+  padding-left: 100px;
+  padding-right: 27px;
+}
+
+.allign-end-price {
+  display: flex;
+  justify-content: end;
+  margin-right: 152px;
+}
+
+.allign-row {
+  display: flex;
+  justify-content: end;
+}
+.right-side{
+  display: flex;
+  justify-content: start;
+}
 /* 
   ##Device = Most of the Smartphones Mobiles (Portrait)
   ##Screen = B/w 320px to 479px
