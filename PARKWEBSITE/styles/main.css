@@ -198,9 +198,21 @@ footer{
   display: block;
 }
 
-  .allign{
-    width: 25px;
-  }
+.productside{
+  display: flex;
+  flex-direction: row;
+}
+.line{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.line p{
+  padding-right: 3px;
+}
+.allign{
+  width: 25px;
+}
 
   .right-side{
     display: flex;
